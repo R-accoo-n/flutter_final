@@ -11,6 +11,9 @@ dependencies:
   http:
   shared_preferences:
   crypto:
+  time_span:
+  intl:
+  qr_flutter:
 
   flutter:
     sdk: flutter
